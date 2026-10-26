@@ -1,0 +1,6 @@
+{
+  "name": "3D Jungle Runner",
+  "description": "An action-packed 3D endless jungle runner game featuring dynamic lanes, jumping, sliding, gold coins, power-ups, ancient temple ruins, and Hindi/English language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
